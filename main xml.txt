@@ -1,0 +1,93 @@
+
+<dir>
+     <name>Movie Collections</name>
+     <link>https://github.com/collector28/thecollector/plugin.video.collecter.xml</link>
+     <animated_thumbnail></animated_thumbnail>
+     <thumbnail></thumbnail>
+     <animated_fanart></animated_fanart>
+     <fanart></fanart>
+</dir>
+
+<dir>
+<title>Search TMDB</title>
+<tmdb>search</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Popular</title>
+      <tmdb>movies/popular</tmdb> 
+</dir>
+
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Top Rated</title>
+      <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Popular</title>
+      <tmdb>tv/popular</tmdb>
+</dir>
+
+
+<dir>      
+	  <title>TMDB Top Rated</title>
+      <tmdb>tv/top_rated</tmdb>
+</dir>
+
+<dir>
+        <name>Movies By Year</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/tmdbyear.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Movies By Genre</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/genre_movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Movies By Production</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/alice/master/production.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>TV Networks</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/networks.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>TV Genre</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/genre_tv.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
+        <name>actors</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/actors.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
