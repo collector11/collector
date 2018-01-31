@@ -1,8 +1,20 @@
 <xml>
   <dir>
-    <title>Formats</title>
-    <link>file://formats/main.xml</link>
+    <title>movies</title>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/main.xml</link>
   </dir>
+
+  <dir>
+    <title>Shared Lists</title>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/collecter%20actors%20xml collector actors xml</link>
+  </dir>
+</xml>
+
+  <dir>
+    <title>Shared Lists</title>
+    <link>file://shared lists/main.xml</link>
+  </dir>
+</xml>
 
   <dir>
     <title>Shared Lists</title>
