@@ -12,7 +12,7 @@
 
   <dir>
     <title>Shared Lists</title>
-    <link>file://shared lists/main.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/screeners.xml</link>
   </dir>
 </xml>
 
