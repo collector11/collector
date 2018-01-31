@@ -1,0 +1,25 @@
+<xml>
+  <dir>
+    <title>[B][COLORwhite]Adam Sandler[/COLOR][/B]</title>
+    <trakt>https://api.trakt.tv/people/Adam-Sandler/movies</trakt>
+  </dir>
+
+<dir>
+    <title>[B][COLORwhite]Al Pacino[/COLOR][/B]</title>
+    <tmdb>person/movies/nm0565250</tmdb>
+  </dir>
+
+<dir>
+    <title>[B][COLORwhiteMelissa McCarthy[/COLOR][/B]</title>
+    <tmdb>person/movies/1158</tmdb>
+  </dir>
+
+<dir>
+    <title>[B][COLORwhite]Al Pacino[/COLOR][/B]</title>
+    <tmdb>person/movies/1158</tmdb>
+  </dir>
+
+<dir>
+    <title>[B][COLORwhite]Al Pacino[/COLOR][/B]</title>
+    <tmdb>person/movies/1158</tmdb>
+  </dir>
