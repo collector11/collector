@@ -1,52 +1,52 @@
 <xml>
   <dir>
     <title>Actors</title>
-    <link>file://shared lists/actors.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/actors.xml</link>
   </dir>
 
 <dir>
     <title>Actresses</title>
-    <link>file://shared lists/actress.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/actress.xml</link>
   </dir>
 
 <dir>
     <title>Chicks</title>
-    <link>file://shared lists/chicks.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/chicks.xml</link>
   </dir>
 
 <dir>
     <title>Collections</title>
-    <link>file://shared lists/collections.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/collections.xml</link>
   </dir>
 
 <dir>
-    <title>Concerts</title>
-    <link>file://shared lists/concerts.xml</link>
+    <title>actors (2)</title>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared lists/actors (2).xml</link>
   </dir>
 
 <dir>
     <title>Kids</title>
-    <link>file://shared lists/kids.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/kids.xml</link>
   </dir>
 
 <dir>
     <title>Kids Boxsets</title>
-    <link>file://shared lists/kids_boxset.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/kids_boxset.xml</link>
   </dir>
 
 <dir>
     <title>Movie Genres</title>
-    <link>file://shared lists/genre_movies.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/genre_movies.xml</link>
   </dir>
   
 <dir>
     <title>Movie Years</title>
-    <link>file://shared lists/movie-years.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/movie-years.xml</link>
   </dir>
 
 <dir>
     <title>Networks</title>
-    <link>file://shared lists/networks.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/networks.xml</link>
   </dir>
 
 <dir>
