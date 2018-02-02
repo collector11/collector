@@ -1,52 +1,52 @@
 <xml>
   <dir>
     <title>Actors</title>
-    <link>file://shared lists/actors.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/actors.xml</link>
   </dir>
 
 <dir>
     <title>Actresses</title>
-    <link>file://shared lists/actress.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/actress.xml</link>
   </dir>
 
 <dir>
     <title>Chicks</title>
-    <link>file://shared lists/chicks.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/chicks.xml</link>
   </dir>
 
 <dir>
     <title>Collections</title>
-    <link>file://shared lists/collections.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/collections.xml</link>
   </dir>
 
 <dir>
-    <title>Concerts</title>
-    <link>file://shared lists/concerts.xml</link>
+    <title>actors (2)</title>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared lists/actors (2).xml</link>
   </dir>
 
 <dir>
     <title>Kids</title>
-    <link>file://shared lists/kids.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/kids.xml</link>
   </dir>
 
 <dir>
     <title>Kids Boxsets</title>
-    <link>file://shared lists/kids_boxset.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/kids_boxset.xml</link>
   </dir>
 
 <dir>
     <title>Movie Genres</title>
-    <link>file://shared lists/genre_movies.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/xml/shared%20lists/genre_movies.xml</link>
   </dir>
   
 <dir>
     <title>Movie Years</title>
-    <link>file://shared lists/movie-years.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/movie-years.xml</link>
   </dir>
 
 <dir>
     <title>Networks</title>
-    <link>file://shared lists/networks.xml</link>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/networks.xml</link>
   </dir>
 
 <dir>
@@ -55,7 +55,183 @@
   </dir>
 
 <dir>
-    <title>Tv Genres</title>
-    <link>file://shared lists/genres_tv.xml</link>
+    <title>Tv</title>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/tv.xml</link>
   </dir>
 
+
+<dir>
+    <title>imdb%20examples</title>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/imdb%20examples.xml</link>
+  </dir>
+
+<dir>
+    <title>collected</title>
+    <link>https://trakt.tv/shows/collected/weekly</link>
+  </dir>
+
+<dir>
+    <title>Tv</title>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/tv.xml</link>
+  </dir>
+ <dir>
+    <title>movies</title>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/main.xml</link>
+  </dir>
+
+  <dir>
+    <title>Shared Lists</title>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/collecter%20actors%20xml collector actors xml</link>
+  </dir>
+</xml>
+
+  <dir>
+    <title>Shared Lists</title>
+    <link>https://raw.githubusercontent.com/collector11/collector/master/screeners.xml</link>
+  </dir>
+</xml>
+
+  <dir>
+    <title>Shared Lists</title>
+    <link>file://shared lists/main.xml</link>
+  </dir>
+</xml>
+
+<dir>
+<title>Search TMDB</title>
+<tmdb>search</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Popular</title>
+      <tmdb>movies/popular</tmdb> 
+</dir>
+
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Top Rated</title>
+      <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Popular</title>
+      <tmdb>tv/popular</tmdb>
+</dir>
+
+
+<dir>      
+	  <title>TMDB Top Rated</title>
+      <tmdb>tv/top_rated</tmdb>
+</dir>
+
+<dir>
+        <name>Movies By Year</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/tmdbyear.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Movies By Genre</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/genre_movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Movies By Production</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/alice/master/production.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>TV Networks</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/networks.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>TV Genre</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/genre_tv.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
+        <name>actors</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/actors.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+
+<dir>
+  <title>Search Add On</title>
+  <trakt>search</trakt>
+</dir>
+
+<dir>
+<title>Search Internet Movies</title>
+<tmdb>search</tmdb>
+
+<dir>
+  <title>Search Add On</title>
+  <trakt>search</trakt>
+</dir>
+
+<dir>
+<title>Search Internet Movies</title>
+<tmdb>search</tmdb>
+</dir>
+
+
+<dir>
+<title>Search IMDB TV</title>
+<imdburl>searchseries</imdburl>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Search IMDB Movies</title>
+<imdburl>searchmovies</imdburl>
+<thumbnail></thumbnail>
+</dir>
+<dir>
+<title>Search Internet</title>
+<tmdb>search</tmdb>
+</dir>
+<dir>
+<title>Search IMDB TV</title>
+<imdburl>searchseries</imdburl>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Search IMDB Movies</title>
+<imdburl>searchmovies</imdburl>
+<thumbnail></thumbnail>
+</dir>
+<dir>
+  <title>Search Add On</title>
+  <trakt>search</trakt>
+</dir>
+
+<dir>
+<title>Search Internet Movies</title>
+<tmdb>search</tmdb>
+</dir>
